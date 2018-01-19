@@ -1,0 +1,10 @@
+<can-import from="vintage-shop/cart-item/" />
+
+<h3>In Your Cart</h3>
+<hr />
+
+{{#each cartPromise.value.items}}
+  <cart-item/>
+{{/each}}
+
+<p>Total: <strong>$163.00</strong></p>

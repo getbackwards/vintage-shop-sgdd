@@ -1,0 +1,16 @@
+<can-import from="vintage-shop/credit-card/" />
+<can-import from="vintage-shop/cart-list/" />
+
+<h2>Billing</h2>
+
+<div class="row">
+  <div class="col-md-8">
+    <credit-card/>
+    <hr />
+    <p><small>We accept major credit and debit cards.</small></p>
+    <a href="{{routeUrl page='home'}}" class="btn btn-primary">Place Order</a>
+  </div>
+  <div class="col-md-4">
+    <cart-list/>
+  </div>
+</div>

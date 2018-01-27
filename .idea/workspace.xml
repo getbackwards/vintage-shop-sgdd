@@ -2,7 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb6853fb-e338-47cb-ac62-d40d01aa8eab" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/base/bootstrap-custom/forms/forms-custom.less" afterPath="$PROJECT_DIR$/src/base/bootstrap-custom/forms/forms-custom.less" />
+      <change beforePath="$PROJECT_DIR$/styleguide/about.html" afterPath="$PROJECT_DIR$/styleguide/about.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/app-header.less.html" afterPath="$PROJECT_DIR$/styleguide/app-header.less.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/buttons-colors.html" afterPath="$PROJECT_DIR$/styleguide/buttons-colors.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/buttons.less.html" afterPath="$PROJECT_DIR$/styleguide/buttons.less.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/cart-item.less.html" afterPath="$PROJECT_DIR$/styleguide/cart-item.less.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/checkboxes_radios.html" afterPath="$PROJECT_DIR$/styleguide/checkboxes_radios.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/color-palette-custom.less.html" afterPath="$PROJECT_DIR$/styleguide/color-palette-custom.less.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/components.html" afterPath="$PROJECT_DIR$/styleguide/components.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/control-sizes.html" afterPath="$PROJECT_DIR$/styleguide/control-sizes.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/control-states.html" afterPath="$PROJECT_DIR$/styleguide/control-states.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/credit-card.less.html" afterPath="$PROJECT_DIR$/styleguide/credit-card.less.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/font-elements.html" afterPath="$PROJECT_DIR$/styleguide/font-elements.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/font-hierarchy.html" afterPath="$PROJECT_DIR$/styleguide/font-hierarchy.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/font-sizes.html" afterPath="$PROJECT_DIR$/styleguide/font-sizes.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/form-example.html" afterPath="$PROJECT_DIR$/styleguide/form-example.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/forms-custom.less.html" afterPath="$PROJECT_DIR$/styleguide/forms-custom.less.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/glyphicons.html" afterPath="$PROJECT_DIR$/styleguide/glyphicons.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/icons.less.html" afterPath="$PROJECT_DIR$/styleguide/icons.less.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/index.html" afterPath="$PROJECT_DIR$/styleguide/index.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/input-types.html" afterPath="$PROJECT_DIR$/styleguide/input-types.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/static/bundles/static.css" afterPath="$PROJECT_DIR$/styleguide/static/bundles/static.css" />
+      <change beforePath="$PROJECT_DIR$/styleguide/static/bundles/static.js" afterPath="$PROJECT_DIR$/styleguide/static/bundles/static.js" />
+      <change beforePath="$PROJECT_DIR$/styleguide/styles.base.html" afterPath="$PROJECT_DIR$/styleguide/styles.base.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/styles.forms.html" afterPath="$PROJECT_DIR$/styleguide/styles.forms.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/styles.html" afterPath="$PROJECT_DIR$/styleguide/styles.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/styles.theme.html" afterPath="$PROJECT_DIR$/styleguide/styles.theme.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/type-custom.less.html" afterPath="$PROJECT_DIR$/styleguide/type-custom.less.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/vintage-shop__app-header.html" afterPath="$PROJECT_DIR$/styleguide/vintage-shop__app-header.html" />
+      <change beforePath="$PROJECT_DIR$/styleguide/vintage-shop__search-bar.html" afterPath="$PROJECT_DIR$/styleguide/vintage-shop__search-bar.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,81 +44,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/base/markdown/about.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="6" column="169" lean-forward="false" selection-start-line="6" selection-start-column="169" selection-end-line="6" selection-end-column="169" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package-lock.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="11914" column="69" lean-forward="false" selection-start-line="11914" selection-start-column="69" selection-end-line="11914" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="buttons-custom.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/base/bootstrap-custom/buttons/buttons-custom.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="static.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styleguide/static/bundles/static.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="1" column="10001" lean-forward="false" selection-start-line="1" selection-start-column="10001" selection-end-line="1" selection-end-column="10001" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/styles.less">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="api.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styleguide-theme/static/styles/api.less">
+      <file leaf-file-name="forms-custom.less" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/base/bootstrap-custom/forms/forms-custom.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="138" column="4" lean-forward="false" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="buttons-custom.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/base/bootstrap-custom/buttons/buttons-custom.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="17" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="buttons-types.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/base/bootstrap-custom/buttons/buttons-types.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -114,6 +85,8 @@
         <option value="$PROJECT_DIR$/styleguide/static/bundles/static.css" />
         <option value="$PROJECT_DIR$/styleguide-theme/static/styles/api.less" />
         <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/base/bootstrap-custom/forms/forms-custom.less" />
       </list>
     </option>
   </component>
@@ -147,7 +120,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,69 +152,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="base" type="462c0819:PsiDirectoryNode" />
               <item name="bootstrap-custom" type="462c0819:PsiDirectoryNode" />
-              <item name="buttons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vintage-shop-sgdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vintage-shop-sgdd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-              <item name="markdown" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vintage-shop-sgdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vintage-shop-sgdd" type="462c0819:PsiDirectoryNode" />
-              <item name="styleguide" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vintage-shop-sgdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vintage-shop-sgdd" type="462c0819:PsiDirectoryNode" />
-              <item name="styleguide" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vintage-shop-sgdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vintage-shop-sgdd" type="462c0819:PsiDirectoryNode" />
-              <item name="styleguide" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="bundles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vintage-shop-sgdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vintage-shop-sgdd" type="462c0819:PsiDirectoryNode" />
-              <item name="styleguide-theme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vintage-shop-sgdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vintage-shop-sgdd" type="462c0819:PsiDirectoryNode" />
-              <item name="styleguide-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vintage-shop-sgdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vintage-shop-sgdd" type="462c0819:PsiDirectoryNode" />
-              <item name="styleguide-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vintage-shop-sgdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vintage-shop-sgdd" type="462c0819:PsiDirectoryNode" />
-              <item name="styleguide-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="forms" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="buttons-&#9;FILE&#9;file:///Users/tgray/Documents/web-dev/styleguides/vintage-shop-sgdd/src/base/bootstrap-custom/buttons/buttons-custom.html&#10;buttons&#9;FILE&#9;file:///Users/tgray/Documents/web-dev/styleguides/vintage-shop-sgdd/src/base/bootstrap-custom/buttons/buttons-custom.less" />
+    <property name="SearchEverywhereHistoryKey" value="form-custom.&#9;FILE&#9;file:///Users/getbackwards/Documents/web-dev/vintage-shop-sgdd/src/base/bootstrap-custom/forms/forms-custom.less&#10;buttons-&#9;FILE&#9;file:///Users/tgray/Documents/web-dev/styleguides/vintage-shop-sgdd/src/base/bootstrap-custom/buttons/buttons-custom.html&#10;buttons&#9;FILE&#9;file:///Users/tgray/Documents/web-dev/styleguides/vintage-shop-sgdd/src/base/bootstrap-custom/buttons/buttons-custom.less" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -270,33 +194,45 @@
       <updated>1516742339158</updated>
       <workItem from="1516742340387" duration="334000" />
       <workItem from="1516742694812" duration="3231000" />
+      <workItem from="1517036992856" duration="1043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3565000" />
+    <option name="totallyTimeSpent" value="4414000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="667" y="175" width="1692" height="1011" extended-state="0" />
+    <frame x="10" y="75" width="1193" height="672" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29982045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31569967" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.57641923" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4800693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29982045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.57641923" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -329,6 +265,92 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/bootstrap-custom/buttons/buttons-types.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/bootstrap-custom/buttons/buttons-custom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="17" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/bootstrap-custom/buttons/buttons-custom.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styleguide/static/bundles/static.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="1" column="10001" lean-forward="false" selection-start-line="1" selection-start-column="10001" selection-end-line="1" selection-end-column="10001" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styleguide-theme/static/styles/api.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="138" column="4" lean-forward="false" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/markdown/about.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="6" column="169" lean-forward="false" selection-start-line="6" selection-start-column="169" selection-end-line="6" selection-end-column="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="11914" column="69" lean-forward="false" selection-start-line="11914" selection-start-column="69" selection-end-line="11914" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -341,7 +363,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -349,7 +370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="17" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -357,7 +377,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -365,7 +384,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="1" column="10001" lean-forward="false" selection-start-line="1" selection-start-column="10001" selection-end-line="1" selection-end-column="10001" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -373,7 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -381,7 +398,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
           <caret line="138" column="4" lean-forward="false" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -397,7 +413,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="6" column="169" lean-forward="false" selection-start-line="6" selection-start-column="169" selection-end-line="6" selection-end-column="169" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -405,6 +420,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="11914" column="69" lean-forward="false" selection-start-line="11914" selection-start-column="69" selection-end-line="11914" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/bootstrap-custom/forms/forms-custom.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding />
         </state>
       </provider>
